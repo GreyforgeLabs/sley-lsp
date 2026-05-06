@@ -1,0 +1,17 @@
+{
+  "consumed_roots": [
+    "sley.diagnostics.report.v0",
+    "sley.query.report.v0",
+    "sley.edit_plan.report.v0",
+    "sley.graft.outcome.v0"
+  ],
+  "future_url": "https://sley.dev/tools/sley-lsp",
+  "github": "https://github.com/GreyforgeLabs/sley-lsp",
+  "name": "sley-lsp",
+  "primary_user": "application developers and agent operators",
+  "priority": "P0 scaffold",
+  "schema": "sley.tool.manifest.v0",
+  "status": "private_scaffold",
+  "title": "Sley LSP",
+  "utility": "language server"
+}
