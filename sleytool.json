@@ -11,7 +11,7 @@
   "primary_user": "application developers and agent operators",
   "priority": "P0 scaffold",
   "schema": "sley.tool.manifest.v0",
-  "status": "private_scaffold",
+  "status": "private_sley_native_source",
   "title": "Sley LSP",
   "utility": "language server"
 }

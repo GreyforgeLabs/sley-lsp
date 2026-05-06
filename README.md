@@ -2,8 +2,10 @@
 
     Language server scaffold for diagnostics, formatting, symbols, hover, and checked repair previews.
 
-    Status: private Sley ecosystem scaffold. This repository is intentionally
-    built as a detailed starting point before public release.
+Status: private Sley ecosystem scaffold. This repository is intentionally
+built as a detailed starting point before public release.
+
+Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; current Node LSP host is temporary until a Sley emit target is ready.
 
     ## Why This Exists
 
