@@ -5,7 +5,7 @@
     "sley.edit_plan.report.v0",
     "sley.graft.outcome.v0"
   ],
-  "future_url": "https://sley.dev/tools/sley-lsp",
+  "future_url": "https://sley.greyforge.tech/tools/sley-lsp",
   "github": "https://github.com/GreyforgeLabs/sley-lsp",
   "name": "sley-lsp",
   "primary_user": "application developers and agent operators",

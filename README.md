@@ -74,7 +74,7 @@
 
     Draft description: Connect Sley editor diagnostics, formatting, symbols, hover, and non-mutating checked repair previews to existing compiler JSON reports.
 
-    Future canonical URL: `https://sley.dev/tools/sley-lsp`
+    Future canonical URL: `https://sley.greyforge.tech/tools/sley-lsp`
 
     GitHub URL while private: `https://github.com/GreyforgeLabs/sley-lsp`
 
