@@ -8,7 +8,7 @@
     "developer-tools",
     "language server"
   ],
-  "license": "MIT",
+  "license": "Apache-2.0",
   "name": "sley-lsp",
   "private": true,
   "scripts": {
