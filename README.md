@@ -71,11 +71,11 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     ## SEO Surface
 
-    Draft SEO title: `Sley LSP - Sley developer tooling`
+    Draft SEO title: `Sley LSP - AI-native language server`
 
-    Draft description: Connect Sley editor diagnostics, formatting, symbols, hover, and non-mutating checked repair previews to existing compiler JSON reports.
+    Draft description: Connect AI-native Sley editor diagnostics, formatting, symbols, hover, and non-mutating repair previews to structured compiler JSON reports.
 
-    Future canonical URL: `https://sley.greyforge.tech/tools/sley-lsp`
+    Future canonical URL: `https://sleylang.org/tools/sley-lsp`
 
     GitHub URL: `https://github.com/GreyforgeLabs/sley-lsp`
 
