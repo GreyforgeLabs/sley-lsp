@@ -75,7 +75,13 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     SEO description: Connect Sley editor diagnostics, formatting, symbols, hover, and non-mutating repair previews to structured compiler reports.
 
+    Keywords: `Sley LSP`, `language server`, `editor diagnostics`, `hover diagnostics`, `repair previews`, `AI-native tooling`
+
     Canonical URL: `https://sleylang.org/tools/sley-lsp`
+    - Geo metadata:
+      - Region: United States (US)
+      - Language: English
+      - Audience: AI-native language tooling teams and operators
 
     GitHub URL: `https://github.com/GreyforgeLabs/sley-lsp`
 
