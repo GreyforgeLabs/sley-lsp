@@ -35,6 +35,12 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 - `sley check --json <target>`
 - `sley plan --json --graft-templates <target>`
 
+    The stdio transport counts `Content-Length` in bytes, caps headers and
+    bodies, and rejects malformed framing deterministically. Compiler calls
+    have fixed timeout and output ceilings. File requests are confined to
+    roots supplied during LSP initialization; `didClose` clears diagnostics,
+    and unsupported requests return JSON-RPC `-32601`.
+
     ## Consumed Sley Contracts
 
     This tool treats Loom, the Sley compiler, as the oracle. It consumes these
@@ -71,17 +77,17 @@ Implementation reality: Sley-native source-of-truth is now in `src/tool.sley`; c
 
     ## SEO Surface
 
-    SEO title: `Sley LSP - AI-native language server`
+    SEO title: `Sley LSP - agent-native language server`
 
     SEO description: Connect Sley editor diagnostics, formatting, symbols, hover, and non-mutating repair previews to structured compiler reports.
 
-    Keywords: `Sley LSP`, `language server`, `editor diagnostics`, `hover diagnostics`, `repair previews`, `AI-native tooling`
+    Keywords: `Sley LSP`, `language server`, `editor diagnostics`, `hover diagnostics`, `repair previews`, `agent-native tooling`
 
     Canonical URL: `https://sleylang.org/tools/sley-lsp`
     - Geo metadata:
       - Region: United States (US)
       - Language: English
-      - Audience: AI-native language tooling teams and operators
+      - Audience: agent-native language tooling teams and operators
 
     GitHub URL: `https://github.com/GreyforgeLabs/sley-lsp`
 
