@@ -1,3 +1,15 @@
+# Migrated to Sley Legacy
+
+> [!IMPORTANT]
+> This Sley 1.x repository is preserved as a historical tombstone. Development
+> moved to [`ecosystem/lsp/` in Sley Legacy](https://github.com/GreyforgeLabs/sley-legacy/tree/public/ecosystem/lsp).
+> Existing history, refs, and links remain here. Active Sley development is the
+> intentionally incompatible machine-native 2.x lineage at
+> [`GreyforgeLabs/sley`](https://github.com/GreyforgeLabs/sley). This conventional
+> LSP is not native Sley 2 tooling.
+
+---
+
     # Sley LSP
 
     Language server scaffold for diagnostics, formatting, symbols, hover, and checked repair previews.
